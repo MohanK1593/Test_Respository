@@ -4,4 +4,8 @@ Training started from 26th July 2026 (Sunday)
 
 Daily Session will be 07:30 pm to 09:00 pm
 
+My Training Roadmap is Linux, Git Hub, Docker, Kubernetes, Jenkins (CI/CD), Ansible (Configuration Management), Terraform.
+
+Linux Completed.
+
 
